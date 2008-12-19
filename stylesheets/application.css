@@ -34,7 +34,7 @@ body {
   #header h1 {
     text-align: right; }
 
-#git_hub #nav_git_hub a, {
+#git_hub #nav_git_hub a {
   color: #73b34d;
   background: #222222;
   text-decoration: none;
