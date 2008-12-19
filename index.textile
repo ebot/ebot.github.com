@@ -1,6 +1,6 @@
 ---
 layout: default
-title: edbotz.github.com
+title: ebot.github.com
 ---
 
 h2. About Me
