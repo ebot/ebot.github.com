@@ -34,7 +34,7 @@ body {
   #header h1 {
     text-align: right; }
 
-#about #nav_about a, #blog #nav_blog a, #links #nav_links a, #photos #nav_photos a, #car_companion #nav_car_companion a, #articles #nav_articles a {
+#git_hub #nav_git_hub a, {
   color: #73b34d;
   background: #222222;
   text-decoration: none;
