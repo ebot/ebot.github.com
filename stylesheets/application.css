@@ -1,0 +1,199 @@
+body {
+  font-family: verdana;
+  font-size: .9em;
+  background-color: #000000;
+  color: #ffffff;
+  margin: 0 10% 0 10%; }
+  body a:link {
+    color: #73b34d;
+    text-decoration: none; }
+  body a:visited {
+    color: #73b34d;
+    text-decoration: none; }
+  body a:active {
+    color: #222222;
+    text-decoration: underline; }
+  body a:hover {
+    color: #222222;
+    text-decoration: underline; }
+
+#header {
+  border-bottom: solid 1px #515151;
+  padding-bottom: 0px; }
+  #header span a {
+    color: #73b34d;
+    text-decoration: none;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 50px;
+    padding-bottom: 10px; }
+  #header span a:hover {
+    color: #73b34d;
+    background: #222222;
+    text-decoration: none; }
+  #header h1 {
+    text-align: right; }
+
+#about #nav_about a, #blog #nav_blog a, #links #nav_links a, #photos #nav_photos a, #car_companion #nav_car_companion a, #articles #nav_articles a {
+  color: #73b34d;
+  background: #222222;
+  text-decoration: none;
+  border-bottom: solid 1px #fffd7b; }
+
+#nav_bar {
+  float: left;
+  padding-top: 25px; }
+
+#bottom_line {
+  border-bottom: solid 5px #73b34d;
+  margin-bottom: 3px; }
+  #bottom_line h5 {
+    font-size: 1.1em;
+    text-align: center;
+    border-bottom: solid 1px #515151; }
+  #bottom_line ul {
+    list-style-type: none;
+    padding-left: 0px; }
+  #bottom_line li {
+    width: 100%;
+    margin-top: 4px; }
+  #bottom_line a:link {
+    color: #73b34d;
+    text-decoration: none; }
+  #bottom_line a:visited {
+    color: #73b34d;
+    text-decoration: none; }
+  #bottom_line a:active {
+    color: #73b34d;
+    text-decoration: none;
+    background-color: #222222; }
+  #bottom_line a:hover {
+    color: #73b34d;
+    text-decoration: none;
+    background-color: #222222; }
+  #bottom_line #article_list {
+    display: inline;
+    margin: 10px;
+    padding: 0px;
+    width: 195px;
+    float: left; }
+    #bottom_line #article_list a {
+      text-decoration: underline; }
+  #bottom_line #tag_list {
+    float: left;
+    margin: 10px 13px;
+    padding: 0px;
+    width: 460px;
+    display: inline;
+    position: relative;
+    text-align: center; }
+  #bottom_line #blog_meta {
+    display: inline;
+    position: relative;
+    margin: 10px 10px 10px 0px;
+    padding: 0px;
+    width: 195px;
+    float: right; }
+
+#content {
+  padding-top: 1px; }
+  #content h2 {
+    color: #ffffff;
+    border-bottom: solid 1px #515151; }
+  #content h3 {
+    color: #ffffff;
+    border-bottom: solid 1px #515151; }
+    #content h3 a:hover {
+      color: #73b34d;
+      text-decoration: none;
+      background-color: #222222; }
+  #content h4 {
+    text-decoration: underline; }
+  #content input, #content textarea {
+    background-color: #515151;
+    border: solid thin #ffffff;
+    color: #ffffff;
+    padding: 2px; }
+  #content textarea {
+    width: 600px; }
+  #content #links {
+    float: right;
+    margin: 20px 0 10px 10px; }
+    #content #links .sidetitle {
+      font-weight: bolder;
+      border-bottom: solid thin #515151;
+      margin-bottom: 3px; }
+  #content input#openid_url {
+    background: url(http://openid.net/login-bg.gif) no-repeat;
+    background-color: #fff;
+    background-position: 0 50%;
+    color: #000;
+    padding-left: 18px; }
+
+.article_list table {
+  border: solid 1px#ffffff;
+  background-color: #515151;
+  width: 650px; }
+  .article_list table td {
+    background-color: #515151;
+    padding: 3px; }
+  .article_list table th {
+    background-color: #515151; }
+  .article_list table .num {
+    text-align: right; }
+
+#clear {
+  clear: both; }
+
+.post {
+  border-bottom: solid 5px #73b34d;
+  margin-bottom: 3px; }
+  .post img {
+    border: 0; }
+
+.post_meta {
+  border-bottom: solid thin #515151;
+  padding-left: 10px;
+  color: #fffd7b; }
+
+.flickr_photosets ul {
+  list-style: none; }
+.flickr_photosets li {
+  float: left;
+  width: 120px;
+  height: 140px;
+  text-align: center; }
+.flickr_photosets img {
+  border: 0; }
+
+#tag_cloud {
+  text-align: center;
+  height: 400px; }
+
+.nube1 {
+  font-size: 1.0em; }
+
+.nube2 {
+  font-size: 1.2em; }
+
+.nube3 {
+  font-size: 1.4em; }
+
+.nube4 {
+  font-size: 1.6em; }
+
+.nube5 {
+  font-size: 1.8em; }
+
+.nube6 {
+  font-size: 2.0em; }
+
+#footer {
+  clear: both;
+  border-top: solid 1px #515151;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  text-align: center;
+  padding-top: 2px; }
+  #footer div {
+    padding-top: 4px; }
