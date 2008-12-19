@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
-    <title>edbotz.us 4.0</title>
+    <title>{{ page.title }}</title>
     <link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
     <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
     <link href='/favicon.ico' rel='icon' type='image/vnd.microsoft.icon' />
@@ -10,12 +10,17 @@
   <body id='page_name'>
     <div id='header'>
       <div id='nav_bar'>
-        {{ content }}
+        <span id='nav_git_hub'><a href="/">ed botz</a></span>
+        <span id='nav_repos'><a href="http://github.com/ebot">repos</a></span>
+        <span id='nav_gist'><a href="http://gists.github.com/ebot">gists</a></span>
+        <span id='nav_edbotz'><a href="http://edbotz.us">blog</a></span>
+        <span id='nav_tumblr'><a href="http://edbotz.tumblr.com">tumblr</a></span>
+        <span id='nav_twitter'><a href="http://twitter.com/ebot">twitter</a></span>
       </div>
-      <h1>edbotz.us</h1>
+      <h1>edbotz.github.com</h1>
     </div>
     <div id='content'>
-      
+      {{ content }}
     </div>
     <div id='footer'>
       Copyright 2008 edbotz.com
