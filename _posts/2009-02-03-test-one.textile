@@ -3,7 +3,6 @@ layout: article
 title: Hello World
 created_at: 10:23 PM on 2009-02-03
 updated_at: 10:23 PM on 2009-02-03
-tags: test
 ---
 
 Hello From GitHub Pages!
