@@ -75,8 +75,7 @@ body {
     display: inline;
     margin: 10px;
     padding: 0px;
-    width: 195px;
-    float: left; }
+    width: 195px;}
     #bottom_line #article_list a {
       text-decoration: underline; }
   #bottom_line #tag_list {
