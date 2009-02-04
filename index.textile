@@ -3,8 +3,6 @@ layout: default
 title: ebot.github.com
 ---
 
-{{ site.posts }}
-
 h2. About Me
 
 My name is Ed, and I was born and raised in the Philadelphia area and now live on the edge of the Philadelphia countryside.  I am a programmer for a major corporation focusing on Web, Java, Ruby, and Database development.   I am a huge sports fan, celebrating the end of the Curse of "Billy Penn":http://en.wikipedia.org/wiki/Curse_of_Billy_Penn, thanks to the "World F***ing Champions &trade;":http://phillies.com.
