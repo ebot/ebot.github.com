@@ -1,6 +1,6 @@
 ---
 layout: article
-title: New Site Design
+title: Hello World
 ---
 
 Hello From GitHub Pages!
