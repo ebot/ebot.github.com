@@ -45,7 +45,6 @@ body {
   padding-top: 25px; }
 
 #bottom_line {
-  border-bottom: solid 5px #73b34d;
   margin-bottom: 3px; }
   #bottom_line h5 {
     font-size: 1.1em;
@@ -75,7 +74,8 @@ body {
     display: inline;
     margin: 10px;
     padding: 0px;
-    width: 195px;}
+    width: 195px;
+    float: left; }
     #bottom_line #article_list a {
       text-decoration: underline; }
   #bottom_line #tag_list {
