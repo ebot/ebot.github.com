@@ -1,0 +1,12 @@
+---
+layout: article
+title: Fall at the Philadelphia Zoo
+created_at: 2007-11-07 01:12:00
+updated_at: 2008-04-09 22:47:21
+---
+
+With no Sixers or Phillies tonight and nothing good on TV, I was able to spend some time uploading pictures from our trip to the <a href="http://phillyzoo.com">Philly Zoo</a> this past weekend.  Kayla got to take her first ride on the famous Swan Boats.
+
+You can see al the stills in the <a href="http://www.flickr.com/photos/ebot/sets/72157602975018965/">photo set</a> at my <a href="http://www.flickr.com/photos/ebot/">flickr page</a>.
+
+<object type="application/x-shockwave-flash" width="400" height="225" data="http://vimeo.com/moogaloop.swf?clip_id=374865&amp;server=vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=01AAEA&loop=1">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=374865&amp;server=vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=01AAEA&loop=1" /></object><br /><a href="http://vimeo.com/374865/l:embed_374865">Fall at the Philly Zoo</a> from <a href="http://vimeo.com/ebot/l:embed_374865">ebot</a> on <a href="http://vimeo.com/l:embed_374865">Vimeo</a>.

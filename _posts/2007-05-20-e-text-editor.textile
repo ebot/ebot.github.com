@@ -1,0 +1,16 @@
+---
+layout: article
+title: e-text editor
+created_at: 2007-05-20 23:26:00
+updated_at: 2008-04-09 22:50:59
+---
+
+<a href="http://www.flickr.com/photos/ebot/489728104/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/225/489728104_a479febb76_m.jpg" width="240" height="186" alt="e text editor" /></a>
+
+Another lost post from the server migration was about the <a href="http://www.e-texteditor.com/">e text editor</a>.
+
+I am a text editor connoisseur.  I am always on the lookout for new ones.  I have used them all.  Everything from notepad, to <a href="http://www.vim.org/">vi</a>, to <a href="http://www.commandtechnology.com/main.asp?pg=home">spf-edit</a>.  My favorite is text mate.  I have hated the fact that I could not use it at work, because we use a windows environment.  That was until e.
+
+The <a href="http://www.e-texteditor.com/">e text editor</a> brings the power and simplicity of <a href="http://macromates.com">textmate</a> to windows.  I used it when it first came out, but now it is now stable enough for everyday I use.  I have been using it at work where I am stuck in a windows environment.  It has made coding at work fun again because I get to use all of the textmate shortcuts and <a href="http://macromates.com/wiki/Main/Bundles">bundles</a>.  Plus, it installs <a href="http://www.cygwin.com/">cygwin</a>, giving you unix commands in your windows environment.
+
+I highly recommend it, it is definitely worth the $35 price tag.  Plus, the is offering it <a href="http://e-texteditor.com/blog/2007/licensing">free</a> during the bet period.  The program will not expire after the 30 days, so you have no reason to not check it out.

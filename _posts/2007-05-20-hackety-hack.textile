@@ -1,0 +1,18 @@
+---
+layout: article
+title: Hackety Hack
+created_at: 2007-05-20 23:00:00
+updated_at: 2008-04-09 22:51:35
+---
+
+<a href="http://hacketyhack.com" title="Hacket Hack"><img src="http://farm1.static.flickr.com/227/490785366_f8f45c333d_m.jpg" width="240" height="209" alt="HacketyHack" /></a>
+
+Wanted to re-post an entry that was lost in the transition to the new server.  
+
+<a href="http://whytheluckystiff.net/">why the luck stiff</a> has shut down his <a href="http://ruby-lang.org">ruby</a> blog <a href="http://redhanded.hobix.com/">red handed</a>, and moved to his new digs at <a href="http://hackety.org">hackety</a>.  Now he is posting about all languages, not just ruby.
+
+I have been a long time reader and loved red handed.  I taught myself ruby by reading his hilarious book, <a href="http://poignantguide.net/ruby/">why's poignant guide to ruby</a>.  I also use two of his creations on a regular basis at work, <a href="http://camping.rubyforge.org">camping</a> and <a href="http://code.whytheluckystiff.net/hpricot">hpricot</a>.  Camping is a great web <a href="http://redhanded.hobix.com/bits/campingAMicroframework.html">micro-framework</a> that allows you whip up a <a href="http://www.sqlite.org/">sqllite</a> driven web site in one file.  hpricot is a reat html and xml parser.
+
+The move comes on the heals of perhaps is coolest creation, <a href="http://hacketyhack.net/">hackety hack</a>.  It is an application and community designed to make learning programming fun and easy.  The editor is great and I love the idea to share programs via the forum, <a href="http://talkety.hacketyhack.net/">talkety talk</a>.
+
+Keep up the great work why.

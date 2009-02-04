@@ -1,0 +1,8 @@
+---
+layout: article
+title: Happy Halloween!
+created_at: 2007-10-31 22:54:00
+updated_at: 2008-04-09 22:48:50
+---
+
+<a href="http://www.flickr.com/photos/ebot/1812043206/" title="Cinderella &amp; Minnie"><img src="http://farm3.static.flickr.com/2098/1812043206_9a367a4803.jpg" width="500" height="375" alt="Cinderella &amp; Minnie" /></a>

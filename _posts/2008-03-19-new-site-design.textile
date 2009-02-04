@@ -1,0 +1,34 @@
+---
+layout: article
+title: New Site Design
+created_at: 2008-03-19 07:36:36
+updated_at: 2008-03-19 07:47:16
+---
+
+This is my new site design.  I was inspired by Geoffrey Grosenbach's "post":http://nubyonrails.com/articles/about-this-blog-memcached about building your own web site and set off to redesign mine from the ground up using "rails":http://rubyonrails.com/.
+
+I realize that many people may not like it, but I wanted to build a minimalist site that bucks a few blog norms.  Gone is the date hierarchy that no one looks at or uses.  Gone is the three pain layout that does not take advantage of widescreen and does not degrade nicely on small screens.  I chose dark colors b/c as a programmer I look at a computer screen all day and suffer from "computer vision syndrome":http://www.allaboutvision.com/cvs/faqs.htm.  The design will evolve.  I am not happy with how everything looks and it's broken in ie, but it's a good enough start.
+
+I did not want to mess with comments and the headache that is spam at this point, so I leveraged "disqus":http://disqus.com/, a site that manages your comments for you.  I may take this on in the future.  I baked in "textile":http://hobix.com/textile/ for formatting a post, "simple-rss":http://simple-rss.rubyforge.org/ for parsing rss feeds, and "xml-rpc":http://www.ruby-doc.org/stdlib/libdoc/xmlrpc/rdoc/index.html.  I also thew in "syntax highlighter":http://code.google.com/p/syntaxhighlighter/ support, so that I can post code examples like this:
+
+<pre name="code" class="ruby:nocontrols:nogutter">
+# excerpt courtesy of ruby-lang.org
+
+# Ruby knows what you
+# mean, even if you
+# want to do math on
+# an entire Array
+cities  = %w[ London
+              Oslo
+              Paris
+              Amsterdam
+              Berlin ]
+visited = %w[Berlin Oslo]
+ 
+puts "I still need " +
+     "to visit the " +
+     "following cities:",
+     cities - visited
+</pre>
+
+My next steps are to clean up the code and formatting.

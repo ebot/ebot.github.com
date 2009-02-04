@@ -1,0 +1,10 @@
+---
+layout: article
+title: Fun in Philly Weekend
+created_at: 2007-11-06 21:51:00
+updated_at: 2008-04-09 22:48:19
+---
+
+Just put together this flipbook of a crazy weekend we spent hanging out in Philly.  We went to the <a href="http://www.ansp.org/">Academy of Natural Science</a>, the <a href="http://www2.philadelphiazoo.org/">Philadelphia Zoo</a>, and <a href="http://disney.go.com/disneyonice/findingnemo/index.html">Nemo on Ice</a> at the <a href="http://www.comcastspectacor.com/">Wach</a>.  Photos up on <a href="http://www.flickr.com/photos/ebot/sets/72157602818528994/">flickr</a>.
+
+<object id="W47310dc97a220516" width="432" height="250" quality="high" data="http://widgets.clearspring.com/o/46928cc51133af17/47310dc97a220516" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="opaque"><param name="wmode" value="opaque" /><param name="movie" value="http://widgets.clearspring.com/o/46928cc51133af17/47310dc97a220516" /><param name="scaleMode" value="showAll" /><param name="allowNetworking" value="all" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="" /></object>

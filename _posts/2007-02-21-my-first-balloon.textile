@@ -1,0 +1,12 @@
+---
+layout: article
+title: My First Balloon
+created_at: 2007-02-21 15:26:00
+updated_at: 2008-04-09 22:44:39
+---
+
+Haven't posted for a while, been busy re-coding the entire site from the ground up.  It will be all ruby.  No php intermingling here.
+
+I just stumbled across <a href="http://balloon.hobix.com">balloon</a>, yet another cool app from <a href="http://whytheluckystiff.net/">_why</a>.   I couldn't resist the urge to post it.  It's been around a while and I have seen the pages before, but never realized it was an on-line service that allowed you to create an account.  I promptly signed up and created my first balloon.
+
+<script src="http://balloon.hobix.com/@embed.js/wasting_time" language="javascript"></script>
