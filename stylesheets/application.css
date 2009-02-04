@@ -45,7 +45,7 @@ body {
   padding-top: 25px; }
 
 #bottom_line {
-  margin-bottom: 3px; }
+  }
   #bottom_line h5 {
     font-size: 1.1em;
     text-align: center;
@@ -95,6 +95,7 @@ body {
     float: right; }
 
 #content {
+  border-bottom: solid 5px #73b34d;
   padding-top: 1px; }
   #content h2 {
     color: #ffffff;
