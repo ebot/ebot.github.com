@@ -1,0 +1,18 @@
+---
+layout: article
+title: Getting the Gist of it
+created_at: 2008-07-24 10:55:28
+updated_at: 2008-07-24 11:28:15
+---
+
+Since first playing around with "git":http://git.or.cz/ I became a fan.  I love the simplicity of creating and merging branches and the default gitk and git-gui tools that come with it.
+
+I love "github":http://github.com/.  It is one of my favorite sites on the net.  I love being able to follow all of the hosted projects and seeing all the forks that people come up with.
+
+The GitHub guys recently introduced "Gist":http://gist.github.com/, a service for storing "snippets":http://bit.ly/12upTJ of code.  I have long used "pastie":http://pastie.org/ and love the style of the code.  Pastie has a "TextMate":http://macromates.com/ feel to their snippets.  Gist does not have that same feel, but they turn snippets into git repositories that allow you to track forks of your snippets created by other users.  Very cool.
+
+"Gist":http://gist.github.com/ just introduced the ability to embed snippets in your web pages.  Brilliant.  More fine work from the guys at "Logical Awesome":http://logicalawesome.com/.  If I could select different themes for the code, ala TextMate and Pastie, it would be perfect.
+
+Here is a "sample gist":http://gist.github.com/2198 that I created to give you an idea of how it works:
+
+<script src="http://gist.github.com/2198.js"></script>

@@ -1,0 +1,36 @@
+---
+layout: article
+title: Much Love for Sass
+created_at: 2008-04-14 08:41:51
+updated_at: 2008-04-14 09:03:19
+---
+
+As part of my site redesign, I implemented "haml":http://haml.hamptoncatlin.com/ for template rendering and "sass":http://haml.hamptoncatlin.com/docs/ for stylesheet rendering.
+
+I love sass and the reason is simple, variables.  Let's say I want to change from green to orange when the "Flyers":http://flyers.nhl.com/ are in the playoffs.  I just change the variable values and it is reflected everywhere.  Global Search and replace be gone.
+
+<pre name="code" class="jscript:nocontrols:nogutter">
+!bg_color = black
+!fore_color = white
+!accent_color = #FFFD7B
+!offset_color = #515151
+!highlight_color = #73B34D
+!hover_color = #22222
+ 
+body
+  :background-color = !bg_color
+  :color = !fore_color
+  a:link
+    :color = !highlight_color
+  a:visited
+    :color = !highlight_color
+  a:active
+    :color = !hover_color
+  a:hover
+    :color = !hover_color
+  
+// Header & navigation settings
+ 
+#header
+  :border-bottom = "solid 1px " + !offset_color
+</pre>

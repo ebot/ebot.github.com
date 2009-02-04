@@ -1,0 +1,22 @@
+---
+layout: article
+title: Hiking Down the Xpath
+created_at: 2008-06-10 12:20:08
+updated_at: 2009-01-06 22:51:07
+---
+
+We have multiple remote environments at work, strung across multiple domains and firewalls.  This created a situation that made it difficult to debug xml api posts and gets.  
+
+I found myself constantly creating scripts to parse xml that I had to copy from a remote computer to my laptop.  This got old quick, so I decided to whip up a script where I could paste in the xml results and write a quick xpath statement to search the xml.
+
+I decided it would be fun to create the script with "why's":http://whytheluckystiff.net/ "camping framework":http://camping.rubyforge.org/files/README.html.  I named the script script "hiking":http://pastie.org/pastes/212350.  All 182 lines of code can be viewed at "pastie":http://pastie.org/pastes/212350
+
+I then took it a step further and packaged up the script and tests and posted them on "GitHub":http://github.com/ at "http://github.com/ebot/hiking":http://github.com/ebot/hiking
+
+You can install hiking with the following command:
+
+> <code>sudo gem install ebot-hiking -s http://gems.github.com</code>
+
+I plan to add more tools like xml formatting and posting xml to specified urls as the needs arise.  Read the "project page":http://ebot.github.com/hiking/ for full details on installing and running.
+
+!http://img.skitch.com/20090107-b2yjbb4cjmeene711heijtpgqy.jpg!
