@@ -146,7 +146,7 @@ body {
   clear: both; }
 
 .post {
-  border-bottom: solid 5px #73b34d;
+ /*  border-bottom: solid 5px #73b34d;*/
   margin-bottom: 3px; }
   .post img {
     border: 0; }
