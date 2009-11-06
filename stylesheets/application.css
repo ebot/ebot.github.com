@@ -20,6 +20,7 @@ body {
     text-decoration: underline; }
 
 #page {
+    margin-top: -3px;
     background: black;
     width: 800px;
 }

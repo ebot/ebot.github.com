@@ -18,3 +18,7 @@ h2. Web Sites
 Here are some web sites that I have helped build and/or design:
 
 * "Uncle Scott's Steakhouse":http://www.unclescottssteakhouse.com
+
+<script type='text/javascript'>
+  document.getElementById('page_name').id='git_hub'
+</script>
