@@ -5,7 +5,7 @@ title: 4 for 4
 
 h2. The Wallpaper
 
-!/images/4for4_preview.jpg!:/images/4for4.jpg
+!/images/4for4/4for4_preview.jpg!:/images/4for4/4for4.jpg
 
 <script type='text/javascript'>
   document.getElementById('page_name').id='4for4'
