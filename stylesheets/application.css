@@ -20,7 +20,7 @@ body {
     text-decoration: underline; }
 
 #page {
-    margin-top: -3px;
+    margin-top: -5px;
     background: black;
     width: 800px;
 }
@@ -60,11 +60,11 @@ body {
     color: #ffffff;
     border-bottom: solid 1px #515151;
     font-size: 115%; }
-    #content h3 a:hover {
-      color: #73b34d;
-      text-decoration: none;
-      background-color: #222222;
-      font-size: 110%; }
+  #content h3 a:hover {
+    color: #73b34d;
+    text-decoration: none;
+    background-color: #222222;
+    font-size: 110%; }
   #content h4 {
     text-decoration: underline;
     font-size: 105%; }
