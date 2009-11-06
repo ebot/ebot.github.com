@@ -5,7 +5,7 @@ title: ebot.github.com
 
 h2. About Me
 
-My name is Ed, and I was born and raised in the Philadelphia area.  I am a programmer for a major corporation focusing on Web, Java, Ruby, and Database development.   I am a avid 4for4 sports fan.
+My name is Ed, and I was born and raised in the Philadelphia area.  I am a programmer for a major corporation focusing on Web, Java, Ruby, and Database development.   I am a avid "4 for 4":/4for4.html sports fan.
 
 h2. Projects
 
