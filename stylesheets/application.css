@@ -59,8 +59,9 @@ body {
   padding: 1px 10px 10px 10px;
   margin: 25px 15px 25px 15px;
   background-color: #262626;
-  -moz-border-radius: 5px; 
-  -webkit-border-radius: 5px; }
+  -moz-border-radius: 7px; 
+  -webkit-border-radius: 7px;
+  border:4px solid #3A3838; }
   #content h2 {
     color: #B3B3B3;
     border-bottom: solid 1px #B3B3B3;

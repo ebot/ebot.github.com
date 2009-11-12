@@ -1,4 +1,7 @@
-#nav_bar {
+#header {
+  display: none; }
+  
+#city_header {
   display: none; }
 
 #footer div {
