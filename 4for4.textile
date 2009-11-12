@@ -3,9 +3,11 @@ layout: default
 title: 4 for 4
 ---
 
-h2. The Wallpaper
+h2. 4 for 4
 
-!/images/4for4/4for4_preview.jpg!:/images/4for4/4for4.jpg
+For "mac":/images/4for4/four_4_four-mac.jpg or "windows":/images/4for4/4for4.jpg
+
+!/images/4for4/4for4_preview.jpg!
 
 <script type='text/javascript'>
   document.getElementById('page_name').id='fourforfour'
