@@ -5,7 +5,8 @@
   display: none; }
 
 #footer div {
-  display: none; }
+  display: none;
+  text-align: center; }
 
 #bottom_line {
   display: none; }
