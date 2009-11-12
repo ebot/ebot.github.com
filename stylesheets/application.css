@@ -3,7 +3,8 @@ body {
   font-size: 1em;
   background-color: black; /*#bfbbbb*/
   color: #ffffff;
-  margin: 0 10px 0 10px; 
+  margin: 0 0 0 0; 
+  padding: 0 10px 0 10px;
   background-image: url('/images/default_background.jpg');
   background-repeat: repeat-x;
   height: 100%; }
