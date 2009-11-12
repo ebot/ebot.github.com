@@ -4,7 +4,7 @@ body {
   background-color: black; /*#bfbbbb*/
   color: #ffffff;
   margin: 0 0 0 0; 
-  padding: 0 10px 0 10px;
+  padding: 0 0 0 0;
   background-image: url('/images/default_background.jpg');
   background-repeat: repeat-x;
   height: 100%; }
@@ -24,7 +24,7 @@ body {
     margin-bottom: -3px; }
 
 #page {
-  background-color: black;
+  background: black;
   padding: 0 30px 0 30px;
   height: 100%;
  }
@@ -52,7 +52,11 @@ body {
 
 #content {
   padding: 0 5px 5px 5px;
-  margin: 7px 5px 7px 5px; }
+  margin: 25px 15px 25px 15px;
+  background-color: #262626;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
   #content h2 {
     color: #ffffff;
     border-bottom: solid 1px #515151;
