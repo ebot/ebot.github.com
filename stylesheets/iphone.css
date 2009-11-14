@@ -40,7 +40,7 @@ body {
 
 #header {
   border-bottom: solid 3px #73b34d;
-  padding: 0 0 5px 5px;
+  padding: 0 0 5px 25px;
   margin: 0 5px 0 5px;
   font-size: 135%; }
   #header span { padding: 0 5px 0 5px; }
