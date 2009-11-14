@@ -1,6 +1,6 @@
 body {
   font-family: verdana;
-  font-size: .9em;
+  font-size: 1.2em;
   background-color: black;
   color: #ffffff;
   margin: 0 0 0 0; 
@@ -24,6 +24,10 @@ body {
   background-image: url('/images/city_hall_background.jpg');
   background-repeat: repeat-x;
   text-align: center;
+}
+#city_header img {
+  width: 95%;
+  margin-bottom: -8px;
 }
 
 #page {
@@ -73,6 +77,9 @@ body {
   #content h4 {
     text-decoration: underline;
     font-size: 105%; }
+  #content img {
+    width: 50%;
+  }
 
 #footer {
   clear: both;
