@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <title>Merry Christmas 2009!</title>
+    <title>Happy Holidays 2009!</title>
     <style type="text/css" media="screen">
       body {
         background: #102837 url('snow.gif');
@@ -27,6 +27,10 @@
         border-bottom: solid 1px #102837;
       }
       
+      img {
+        border: none;
+      }
+      
       #message {
         clear: both;
         text-align: center;
@@ -35,12 +39,26 @@
       }
       
       #pictures {
-        width: 535px;
+        width: 550px;
         text-align: center;
         margin: 0px auto;
       }
       
-      .polaroid {
+      #footer {
+        width: 650px;
+        font-size: 70%;
+        font-style: italic;
+        text-align: center;
+        border-top: solid 1px #102837;
+        padding-top: 3px;
+        margin: 15px auto;
+      }
+      
+      a, a:hover, a:focus, a:active {
+        color: #102837;
+      }
+      
+      .polaroid {        
         width: 150px;
         padding: 10px 10px 7px 10px;
         margin: 3px;
@@ -49,13 +67,50 @@
         -webkit-box-shadow: 2px 2px 3px rgba(135, 139, 144, 0.4);
         -moz-box-shadow: 2px 2px 3px rgba(135, 139, 144, 0.4);
         box-shadow: 2px 2px 3px rgba(135, 139, 144, 0.4);
+        
         text-align: center;
+        color:black;
+        text-decoration: none;
+        
+        /* Stylings to rotate images on hover */
+        -webkit-transform: rotate(10deg);
+        -webkit-transition: -webkit-transform 0.5s ease-in;
+        
+        /* Stylings to pull the image off the table */
+        z-index: 2;
+        -webkit-box-shadow: 2px 2px 4px rgba(0,0, 0, 0.3);
+        -moz-box-shadow: 2px 2px 4px rgba(0,0, 0, 0.3);
+        box-shadow: 2px 2px 4px rgba(0,0, 0, 0.3);
+        -webkit-transform: rotate(10deg);
+        -moz-transform: rotate(10deg);
+        transform: rotate(10deg);
+        -webkit-transition: all 0.5s ease-in;
+      }
+      
+      a.polaroid:hover, a.polaroid:focus, a.polaroid:active {
+        -webkit-transform: rotate(0deg);
+        
+        /* Stylings to pull the image off the table */
+        z-index: 999;
+        border-color: #6A6A6A;
+        -webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+        -moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+        box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+        -webkit-transform: rotate(0deg) scale(1.05);
+        -moz-transform: rotate(0deg) scale(1.05);
+        transform: rotate(0deg) scale(1.05);
       }
       
       .pull-left.polaroid {
         -webkit-transform: rotate(-9deg);
         -moz-transform: rotate(-9deg);
         transform: rotate(-9deg);
+      }
+      
+      .center.polaroid {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        transform: rotate(0deg);
       }
       
       .pull-right.polaroid {
@@ -82,24 +137,28 @@
       <h1 id="merry_christmas!">Merry Christmas!</h1>
       
       <div id="pictures">
-        <div id="pic_1" class="polaroid pull-left">
+        <a href= "" id="pic_1" class="polaroid pull-left">
           <img src="Kayla.jpg" alt="Kayla">
           Kayla
-        </div>
+        </a>
         
-        <div id="pic_2" class="polaroid">
+        <a href= "" id="pic_2" class="polaroid center">
           <img src="Kayla.jpg" alt="Kayla">
           Love Park
-        </div>
+        </a>
         
-        <div id="pic_3" class="polaroid pull-right">
+        <a href= ""  id="pic_3" class="polaroid pull-right">
           <img src="Kayla.jpg" alt="Kayla">
           Lindsey
-        </div>
+        </a>
       </div>
       
       <div id="message">
-        Hope everyone has a great christmas and a happy new year!
+        Wishing you and your family a great christmas and a happy new year!
+      </div>
+      
+      <div id="footer">
+        If your having trouble viewing this email, go to <a href="http://ebot.github.com/xmas-2009">http://ebot.github.com/xmas-2009</a>
       </div>
     </div>
   </body>
