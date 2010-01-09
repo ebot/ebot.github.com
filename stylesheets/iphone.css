@@ -59,6 +59,19 @@ body {
     color: #73b34d;
     text-decoration: none; }
 
+#latest_tweet {
+  display: inline;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+#latest_tweet li {
+  list-style-type: none;
+  margin-top: -27px;
+  margin-left: -12px;
+}
+
 #content {
   color: #A1A1A1;
   padding: 1px 10px 10px 10px;
