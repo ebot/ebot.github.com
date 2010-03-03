@@ -1,0 +1,81 @@
+body { 
+  font-family: Helvetica, Verdana, Tahoma;
+  color: #00022b;
+  font-size: 1em;
+}
+
+#page {
+  
+}
+
+#header {
+  padding: 10px;
+  text-align: center;
+}
+
+#header h1{ line-height: 60px;}
+
+#hours  {
+  font-size: 70%;
+  text-align: left;
+}
+
+#navigation {
+  background-color: #00022b;
+  color: white;
+  padding: 1px;
+}
+
+  #navigation div {
+    padding: 3px;
+    color:white;
+    text-align: center; }
+  #navigation a:link {
+    text-decoration: none; }
+  #navigation a:visited {
+    color: white;
+    text-decoration: none; }
+  #navigation a:active {
+    color:white;
+    text-decoration: underline; }
+  #navigation a:hover div {
+    color: #00022b;
+    cursor: hand;
+    background-color: white;
+    text-decoration: none; }
+
+#social_media {
+  padding: 8px 1px 8px 1px;
+  text-align: center;
+  background-color: #B7B7FF;
+}
+  #social_media div a{
+    color: #00022b;
+    text-decoration: none; }
+  #social_media div a:hover{
+    color: #00022b;
+    text-decoration: underline; }
+
+#content {
+  padding: 7px;
+}
+
+#news {
+  padding: 10px;
+  text-align: left;
+}
+  #news div {
+    padding: 5px }
+  #news .graphic {
+    width: 170px;
+  }
+
+.news_item {
+  border-bottom: solid 1px #00022b; }
+
+#footer {
+  font-size:80%;
+  border-top: solid 2px black;
+  text-align: center;
+  padding: 7px 0 0 0;
+}
