@@ -1,24 +1,2 @@
----
-layout: default
-title: ebot.github.com
----
-
-h2. About Me
-
-My name is Ed and I was born and raised in the Philadelphia area.  I am a programmer for a major corporation focusing on web, Java, Ruby, and database development.   I am a "4 for 4":/4for4.html sports fan.
-
-h2. Projects
-
-Here are some of the open source projects I am working on:
-
-* "hiking":http://ebot.github.com/hiking/ - a tiny xpath query analyzer written with the camping micro-framework.
-
-h2. Web Sites
-
-Here are some web sites that I have helped build and/or design:
-
-* "Uncle Scott's Steakhouse":http://www.unclescottssteakhouse.com
-
-<script type='text/javascript'>
-  document.getElementById('page_name').id='git_hub'
-</script>
+:javascript
+  window.location = "http://edbotz.us";
